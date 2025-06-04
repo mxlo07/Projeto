@@ -1,1 +1,32 @@
 # Projeto
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Origem da Nike</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>A História por trás da Marca que Revolucionou o Esporte</h1>
+        <p>Conheça a origem da Nike e como ela se tornou sinônimo de inovação e desempenho</p>
+        <button>Descubra a História</button>
+    </header>
+    <main>
+        <section>
+            <h2>A Inovação que Mudou o Jogo</h2>
+            <p>Bill Bowerman, um treinador de atletismo da Universidade de Oregon, estava insatisfeito com a qualidade dos calçados esportivos disponíveis na época.</p>
+        </section>
+        <section>
+            <h2>O Nascimento da Nike</h2>
+            <p>Em 1971, a BRS foi rebatizada como Nike, Inc., inspirada na deusa grega da vitória.</p>
+        </section>
+        <section>
+            <h2>Por que a Nike foi criada?</h2>
+            <p>A Nike foi criada com o objetivo de fornecer equipamentos esportivos de alta qualidade e inovadores para atletas.</p>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
